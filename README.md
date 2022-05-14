@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @techno-pop
-- 👀 I’m interested in working on interesting projects!
+- 👀 I’m interested in working on fun projects!
 
 <!---
 techno-pop/techno-pop is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
